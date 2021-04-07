@@ -1,0 +1,15 @@
+{
+	"package_name": "svelte-cordova-boilerplate",
+	"package_org": "@ptkdev",
+	"app_id": "io.ptkdev.boilerplate",
+	"display_name": "Svelte Cordova Boilerplate",
+	"description": "Create android and ios mobile app with this friendly Svelte boilerplate for cordova",
+	"author": "Patryk Rzucidło [@ptkdev] <support@ptkdev.io> (https://ptk.dev)",
+	"author_short": "Patryk Rzucidło",
+	"author_markdown": "[Patryk Rzucidło](https://ptk.dev) ([@PTKDev](https://twitter.com/ptkdev)) <[support@ptkdev.io](mailto:support@ptkdev.io)>",
+	"author_url": "https://ptk.dev",
+	"github_nickname": "ptkdev",
+	"github_repository_url": "github.com/ptkdev-boilerplate",
+	"github_full_repository_url": "github.com/ptkdev-boilerplate/svelte-cordova-boilerplate",
+	"email": "support@ptkdev.io"
+}

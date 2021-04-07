@@ -1,0 +1,7 @@
+**/*
+!/dist/**/*
+!/platforms/**/*
+!/plugins/**/*
+!/extra/**/*
+!*.md
+!package*.json
