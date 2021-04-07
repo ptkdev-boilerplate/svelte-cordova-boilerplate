@@ -65,7 +65,7 @@ Create a android and ios mobile app with this friendly Svelte boilerplate for co
 2. Run `npm run init`
 3. Run `npm run dev`
 4. Run `npm run dev:cordova`
-5. Open `platform/android` with android studio or `platform/ios` with xCode.
+5. Open `platforms/android` with android studio or `platforms/ios` with xCode.
 6. Press RUN.
 
 #### 💾 Setup Project
