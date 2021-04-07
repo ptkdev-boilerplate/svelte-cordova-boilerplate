@@ -47,8 +47,8 @@
 					"platform": "shields"
 				},
 				{
-					"url": "https://cordovajs.org/",
-					"color": "#9feaf9",
+					"url": "https://cordova.apache.org/",
+					"color": "#4CC2E4",
 					"label": "powered by",
 					"message": "cordova",
 					"title": "Powered By Cordova",
