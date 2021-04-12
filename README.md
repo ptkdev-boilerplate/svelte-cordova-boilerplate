@@ -2,11 +2,13 @@
 
 <!-- all-shields/header-badges:START -->
 
-[![v1.0.20210407](https://img.shields.io/badge/version-v1.0.20210407-lightgray.svg?style=flat&logo=)](https://github.com/ptkdev-boilerplate/svelte-cordova-boilerplate/blob/main/CHANGELOG.md) [![](https://img.shields.io/npm/v/@ptkdev/svelte-cordova-boilerplate?color=CC3534&logo=npm)](https://www.npmjs.com/package/@ptkdev/svelte-cordova-boilerplate) [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat&logo=license)](https://github.com/ptkdev-boilerplate/svelte-cordova-boilerplate/blob/main/LICENSE.md) [![Powered By Svelte](https://img.shields.io/badge/powered%20by-svelte-FF3C02.svg?style=flat&logo=svelte)](https://svelte.dev/) [![Powered By Cordova](https://img.shields.io/badge/powered%20by-cordova-9feaf9.svg?style=flat&logo=cordova)](https://cordovajs.org/) [![Language: TypeScript](https://img.shields.io/badge/language-typescript-blue.svg?style=flat&logo=typescript)](https://www.typescriptlang.org/) [![ECMAScript: 2019](https://img.shields.io/badge/ES-9-F7DF1E.svg?style=flat&logo=javascript)](https://github.com/tc39/ecma262) [![Discord Server](https://discordapp.com/api/guilds/383373985666301975/embed.png)](https://discord.ptkdev.io)
+[![v1.0.20210412](https://img.shields.io/badge/version-v1.0.20210412-lightgray.svg?style=flat&logo=)](https://github.com/ptkdev-boilerplate/svelte-cordova-boilerplate/blob/main/CHANGELOG.md) [![](https://img.shields.io/npm/v/@ptkdev/svelte-cordova-boilerplate?color=CC3534&logo=npm)](https://www.npmjs.com/package/@ptkdev/svelte-cordova-boilerplate) [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat&logo=license)](https://github.com/ptkdev-boilerplate/svelte-cordova-boilerplate/blob/main/LICENSE.md) [![Powered By Svelte](https://img.shields.io/badge/powered%20by-svelte-FF3C02.svg?style=flat&logo=svelte)](https://svelte.dev/) [![Powered By Cordova](https://img.shields.io/badge/powered%20by-cordova-4CC2E4.svg?style=flat&logo=apachecordova)](https://cordova.apache.org/) [![Language: TypeScript](https://img.shields.io/badge/language-typescript-blue.svg?style=flat&logo=typescript)](https://www.typescriptlang.org/) [![ECMAScript: 2019](https://img.shields.io/badge/ES-9-F7DF1E.svg?style=flat&logo=javascript)](https://github.com/tc39/ecma262) [![Discord Server](https://discordapp.com/api/guilds/383373985666301975/embed.png)](https://discord.ptkdev.io)
 
 <!-- all-shields/header-badges:END -->
 
 Create a android and ios mobile app with this friendly Svelte boilerplate for cordova
+
+This is a [github template](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/), you can fork it or [use as template](https://github.com/ptkdev-boilerplate/svelte-cordova-boilerplate/generate) for start new project with this repository as hello-world. I hate start new project with empty template, often i missing correct configuration, readme instruction or i need of samples of code. Use this repository as template solve this problem.
 
 ## 🎁 Support: Donate
 
@@ -14,7 +16,7 @@ Create a android and ios mobile app with this friendly Svelte boilerplate for co
 
 <!-- all-shields/sponsors-badges:START -->
 
-[![Donate Paypal](https://img.shields.io/badge/donate-paypal-005EA6.svg?style=flat&logo=paypal)](https://www.paypal.me/ptkdev) [![Donate Ko-Fi](https://img.shields.io/badge/donate-ko--fi-29abe0.svg?style=flat&logo=ko-fi)](https://ko-fi.com/ptkdev) [![Donate Github Sponsors](https://img.shields.io/badge/donate-sponsors-ea4aaa.svg?style=flat&logo=github)](https://github.com/sponsors/ptkdev) [![Donate Patreon](https://img.shields.io/badge/donate-patreon-F87668.svg?style=flat&logo=patreon)](https://www.patreon.com/ptkdev) [![Donate Bitcoin](https://img.shields.io/badge/donate-35jQmZCy4nsxoMM3QPFrnZePDVhdKaHMRH-E38B29.svg?style=flat&logo=bitcoin)]() [![Donate Ethereum](https://img.shields.io/badge/donate-0x8b8171661bEb032828e82baBb0B5B98Ba8fBEBFc-4E8EE9.svg?style=flat&logo=ethereum)]()
+[![Donate Paypal](https://img.shields.io/badge/donate-paypal-005EA6.svg?style=for-the-badge&logo=paypal)](https://www.paypal.me/ptkdev) [![Donate Ko-Fi](https://img.shields.io/badge/donate-ko--fi-29abe0.svg?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/ptkdev) [![Donate Github Sponsors](https://img.shields.io/badge/donate-sponsors-ea4aaa.svg?style=for-the-badge&logo=github)](https://github.com/sponsors/ptkdev) [![Donate Patreon](https://img.shields.io/badge/donate-patreon-F87668.svg?style=for-the-badge&logo=patreon)](https://www.patreon.com/join/ptkdev) [![Donate Bitcoin](https://img.shields.io/badge/BTC-35jQmZCy4nsxoMM3QPFrnZePDVhdKaHMRH-E38B29.svg?style=flat-square&logo=bitcoin)](https://ptk.dev/img/icons/menu/bitcoin_wallet.png) [![Donate Ethereum](https://img.shields.io/badge/ETH-0x8b8171661bEb032828e82baBb0B5B98Ba8fBEBFc-4E8EE9.svg?style=flat-square&logo=ethereum)](https://ptk.dev/img/icons/menu/ethereum_wallet.png)
 
 <!-- all-shields/sponsors-badges:END -->
 
@@ -29,7 +31,9 @@ Create a android and ios mobile app with this friendly Svelte boilerplate for co
 -   👨‍💻 [Contributing](#-contributing)
 -   🐛 [Known Bugs](https://github.com/ptkdev-boilerplate/svelte-cordova-boilerplate/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 -   🍻 Community:
-    -   <img src="https://raw.githubusercontent.com/ptkdev-boilerplate/svelte-cordova-boilerplate/main/.github/assets/social_discord.png" height="18px"> [Discord](http://discord.ptkdev.io) ([🇬🇧 English Channel](https://discord.gg/jqUSGPKdmA) | [🇮🇹 Italian Channel](https://discord.gg/SJFcbvG6RU) | [🇵🇱 Polish Channel](https://discord.gg/25vg4VFhb7))
+    -   <img src="https://raw.githubusercontent.com/ptkdev-boilerplate/svelte-cordova-boilerplate/main/.github/assets/social_telegram.png" height="18px"> Telegram ([🇬🇧 English](http://t.me/ptkdev_support) | [🇮🇹 Italian](http://t.me/ptkdev_support_italian))
+    -   <img src="https://raw.githubusercontent.com/ptkdev-boilerplate/svelte-cordova-boilerplate/main/.github/assets/social_discord.png" height="18px"> [Discord](http://discord.ptkdev.io) ([🇬🇧 English](https://discord.gg/jqUSGPKdmA) | [🇮🇹 Italian](https://discord.gg/SJFcbvG6RU) | [🇵🇱 Polish](https://discord.gg/25vg4VFhb7))
+    -   <img src="https://raw.githubusercontent.com/ptkdev-boilerplate/svelte-cordova-boilerplate/main/.github/assets/social_twitter.png" height="18px"> [Twitter](http://twitter.com/ptkdevio)
 
 ## 💡 Features
 
