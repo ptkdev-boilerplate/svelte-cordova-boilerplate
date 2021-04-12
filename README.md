@@ -2,7 +2,7 @@
 
 <!-- all-shields/header-badges:START -->
 
-[![v1.0.20210412](https://img.shields.io/badge/version-v1.0.20210412-lightgray.svg?style=flat&logo=)](https://github.com/ptkdev-boilerplate/svelte-cordova-boilerplate/blob/main/CHANGELOG.md) [![](https://img.shields.io/npm/v/@ptkdev/svelte-cordova-boilerplate?color=CC3534&logo=npm)](https://www.npmjs.com/package/@ptkdev/svelte-cordova-boilerplate) [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat&logo=license)](https://github.com/ptkdev-boilerplate/svelte-cordova-boilerplate/blob/main/LICENSE.md) [![Powered By Svelte](https://img.shields.io/badge/powered%20by-svelte-FF3C02.svg?style=flat&logo=svelte)](https://svelte.dev/) [![Powered By Cordova](https://img.shields.io/badge/powered%20by-cordova-4CC2E4.svg?style=flat&logo=apachecordova)](https://cordova.apache.org/) [![Language: TypeScript](https://img.shields.io/badge/language-typescript-blue.svg?style=flat&logo=typescript)](https://www.typescriptlang.org/) [![ECMAScript: 2019](https://img.shields.io/badge/ES-9-F7DF1E.svg?style=flat&logo=javascript)](https://github.com/tc39/ecma262) [![Discord Server](https://discordapp.com/api/guilds/383373985666301975/embed.png)](https://discord.ptkdev.io)
+[![v1.0.20210412](https://img.shields.io/badge/version-v1.0.20210412-lightgray.svg?style=flat&logo=)](https://github.com/ptkdev-boilerplate/svelte-cordova-boilerplate/blob/main/CHANGELOG.md) [![](https://img.shields.io/npm/v/@ptkdev/svelte-cordova-boilerplate?color=CC3534&logo=npm)](https://www.npmjs.com/package/@ptkdev/svelte-cordova-boilerplate) [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat&logo=license)](https://github.com/ptkdev-boilerplate/svelte-cordova-boilerplate/blob/main/LICENSE.md) [![Powered By Svelte](https://img.shields.io/badge/powered%20by-svelte-FF3C02.svg?style=flat&logo=svelte)](https://svelte.dev/) [![Powered By Cordova](https://img.shields.io/badge/powered%20by-cordova-4CC2E4.svg?style=flat&logo=apache-cordova)](https://cordova.apache.org/) [![Language: TypeScript](https://img.shields.io/badge/language-typescript-blue.svg?style=flat&logo=typescript)](https://www.typescriptlang.org/) [![ECMAScript: 2019](https://img.shields.io/badge/ES-9-F7DF1E.svg?style=flat&logo=javascript)](https://github.com/tc39/ecma262) [![Discord Server](https://discordapp.com/api/guilds/383373985666301975/embed.png)](https://discord.ptkdev.io)
 
 <!-- all-shields/header-badges:END -->
 
@@ -137,7 +137,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 ## 💫 License
 
 -   Code and Contributions have **MIT License**
--   Images and logos have **CC BY-NC 4.0 License** ([Freepik](https://it.freepik.com/) Premium License)
+-   Images and logos have **CC BY-NC 4.0 License**
 -   Documentations and Translations have **CC BY 4.0 License**
 
 ###### Copyleft (c) 2021 [Patryk Rzucidło](https://ptk.dev) ([@PTKDev](https://twitter.com/ptkdev)) <[support@ptkdev.io](mailto:support@ptkdev.io)>
