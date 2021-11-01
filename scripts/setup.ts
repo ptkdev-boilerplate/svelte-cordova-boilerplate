@@ -19,7 +19,14 @@ const pkg = require("../package.json");
 	try {
 		await replace({
 			files: ["config.xml"],
-			ignore: ["node_modules/**/*", "platforms/**/*", "setup.json", "package-lock.json", "scripts/setup.ts", ".all-contributorsrc"],
+			ignore: [
+				"node_modules/**/*",
+				"platforms/**/*",
+				"setup.json",
+				"package-lock.json",
+				"scripts/setup.ts",
+				".all-contributorsrc",
+			],
 			from: /io.ptkdev.boilerplate/g,
 			to: setup.app_id,
 		});
@@ -30,7 +37,14 @@ const pkg = require("../package.json");
 	try {
 		await replace({
 			files: ["config.xml"],
-			ignore: ["node_modules/**/*", "platforms/**/*", "setup.json", "package-lock.json", "scripts/setup.ts", ".all-contributorsrc"],
+			ignore: [
+				"node_modules/**/*",
+				"platforms/**/*",
+				"setup.json",
+				"package-lock.json",
+				"scripts/setup.ts",
+				".all-contributorsrc",
+			],
 			from: /Patryk Rzucidło/g,
 			to: setup.author_short,
 		});
@@ -41,7 +55,14 @@ const pkg = require("../package.json");
 	try {
 		await replace({
 			files: ["**/*", ".*", "**/.*"],
-			ignore: ["node_modules/**/*", "platforms/**/*", "setup.json", "package-lock.json", "scripts/setup.ts", ".all-contributorsrc"],
+			ignore: [
+				"node_modules/**/*",
+				"platforms/**/*",
+				"setup.json",
+				"package-lock.json",
+				"scripts/setup.ts",
+				".all-contributorsrc",
+			],
 			from: /github.com\/ptkdev-boilerplate\/svelte-cordova-boilerplate/g,
 			to: setup.github_full_repository_url,
 		});
@@ -52,7 +73,14 @@ const pkg = require("../package.json");
 	try {
 		await replace({
 			files: ["**/*", ".*", "**/.*"],
-			ignore: ["node_modules/**/*", "platforms/**/*", "setup.json", "package-lock.json", "scripts/setup.ts", ".all-contributorsrc"],
+			ignore: [
+				"node_modules/**/*",
+				"platforms/**/*",
+				"setup.json",
+				"package-lock.json",
+				"scripts/setup.ts",
+				".all-contributorsrc",
+			],
 			from: /github.com\/ptkdev\/svelte-cordova-boilerplate/g,
 			to: setup.github_full_repository_url,
 		});
@@ -63,7 +91,14 @@ const pkg = require("../package.json");
 	try {
 		await replace({
 			files: ["**/*", ".*", "**/.*"],
-			ignore: ["node_modules/**/*", "platforms/**/*", "setup.json", "package-lock.json", "scripts/setup.ts", ".all-contributorsrc"],
+			ignore: [
+				"node_modules/**/*",
+				"platforms/**/*",
+				"setup.json",
+				"package-lock.json",
+				"scripts/setup.ts",
+				".all-contributorsrc",
+			],
 			from: /githubusercontent.com\/ptkdev-boilerplate/g,
 			to: setup.github_repository_url.replace("github.com", "githubusercontent.com"),
 		});
@@ -74,7 +109,14 @@ const pkg = require("../package.json");
 	try {
 		await replace({
 			files: ["**/*", ".*", "**/.*"],
-			ignore: ["node_modules/**/*", "platforms/**/*", "setup.json", "package-lock.json", "scripts/setup.ts", ".all-contributorsrc"],
+			ignore: [
+				"node_modules/**/*",
+				"platforms/**/*",
+				"setup.json",
+				"package-lock.json",
+				"scripts/setup.ts",
+				".all-contributorsrc",
+			],
 			from: /githubusercontent.com\/ptkdev/g,
 			to: setup.github_repository_url.replace("github.com", "githubusercontent.com"),
 		});
@@ -85,7 +127,14 @@ const pkg = require("../package.json");
 	try {
 		await replace({
 			files: ["**/*", ".*", "**/.*"],
-			ignore: ["node_modules/**/*", "platforms/**/*", "setup.json", "package-lock.json", "scripts/setup.ts", ".all-contributorsrc"],
+			ignore: [
+				"node_modules/**/*",
+				"platforms/**/*",
+				"setup.json",
+				"package-lock.json",
+				"scripts/setup.ts",
+				".all-contributorsrc",
+			],
 			from: /github.com\/ptkdev-boilerplate/g,
 			to: setup.github_repository_url,
 		});
@@ -96,7 +145,14 @@ const pkg = require("../package.json");
 	try {
 		await replace({
 			files: ["**/*", ".*", "**/.*"],
-			ignore: ["node_modules/**/*", "platforms/**/*", "setup.json", "package-lock.json", "scripts/setup.ts", ".all-contributorsrc"],
+			ignore: [
+				"node_modules/**/*",
+				"platforms/**/*",
+				"setup.json",
+				"package-lock.json",
+				"scripts/setup.ts",
+				".all-contributorsrc",
+			],
 			from: /github.com\/ptkdev/g,
 			to: setup.github_repository_url,
 		});
@@ -107,7 +163,14 @@ const pkg = require("../package.json");
 	try {
 		await replace({
 			files: ["**/*", ".*", "**/.*"],
-			ignore: ["node_modules/**/*", "platforms/**/*", "setup.json", "package-lock.json", "scripts/setup.ts", ".all-contributorsrc"],
+			ignore: [
+				"node_modules/**/*",
+				"platforms/**/*",
+				"setup.json",
+				"package-lock.json",
+				"scripts/setup.ts",
+				".all-contributorsrc",
+			],
 			from: /@ptkdev\/svelte-cordova-boilerplate/g,
 			to: setup.package_org !== "" ? `${setup.package_org}/${setup.package_name}` : setup.package_name,
 		});
@@ -118,7 +181,14 @@ const pkg = require("../package.json");
 	try {
 		await replace({
 			files: ["**/*", ".*", "**/.*"],
-			ignore: ["node_modules/**/*", "platforms/**/*", "setup.json", "package-lock.json", "scripts/setup.ts", ".all-contributorsrc"],
+			ignore: [
+				"node_modules/**/*",
+				"platforms/**/*",
+				"setup.json",
+				"package-lock.json",
+				"scripts/setup.ts",
+				".all-contributorsrc",
+			],
 			from: /Node Telegram BOT Boilerplate/g,
 			to: setup.display_name,
 		});
@@ -129,7 +199,14 @@ const pkg = require("../package.json");
 	try {
 		await replace({
 			files: ["**/*", ".*", "**/.*"],
-			ignore: ["node_modules/**/*", "platforms/**/*", "setup.json", "package-lock.json", "scripts/setup.ts", ".all-contributorsrc"],
+			ignore: [
+				"node_modules/**/*",
+				"platforms/**/*",
+				"setup.json",
+				"package-lock.json",
+				"scripts/setup.ts",
+				".all-contributorsrc",
+			],
 			from: /Create your telegram bot with this friendly boilerplate. Use this respository as template for your bot/g,
 			to: setup.description,
 		});
@@ -140,7 +217,14 @@ const pkg = require("../package.json");
 	try {
 		await replace({
 			files: ["**/*", ".*", "**/.*"],
-			ignore: ["node_modules/**/*", "platforms/**/*", "setup.json", "package-lock.json", "scripts/setup.ts", ".all-contributorsrc"],
+			ignore: [
+				"node_modules/**/*",
+				"platforms/**/*",
+				"setup.json",
+				"package-lock.json",
+				"scripts/setup.ts",
+				".all-contributorsrc",
+			],
 			from: /Patryk Rzucidło \[@ptkdev\] <support@ptkdev.io> \(https:\/\/ptk.dev\)/g,
 			to: setup.author,
 		});
@@ -151,7 +235,14 @@ const pkg = require("../package.json");
 	try {
 		await replace({
 			files: ["**/*", ".*", "**/.*"],
-			ignore: ["node_modules/**/*", "platforms/**/*", "setup.json", "package-lock.json", "scripts/setup.ts", ".all-contributorsrc"],
+			ignore: [
+				"node_modules/**/*",
+				"platforms/**/*",
+				"setup.json",
+				"package-lock.json",
+				"scripts/setup.ts",
+				".all-contributorsrc",
+			],
 			from: /\[Patryk Rzucidło\]\(https:\/\/ptk.dev\) \(\[@PTKDev\]\(https:\/\/twitter.com\/ptkdev\)\) <\[support@ptkdev.io\]\(mailto:support@ptkdev.io\)>/g,
 			to: setup.author_markdown,
 		});
@@ -195,7 +286,14 @@ const pkg = require("../package.json");
 	try {
 		await replace({
 			files: ["**/*", ".*", "**/.*"],
-			ignore: ["node_modules/**/*", "platforms/**/*", "setup.json", "package-lock.json", "scripts/setup.ts", ".all-contributorsrc"],
+			ignore: [
+				"node_modules/**/*",
+				"platforms/**/*",
+				"setup.json",
+				"package-lock.json",
+				"scripts/setup.ts",
+				".all-contributorsrc",
+			],
 			from: /svelte-cordova-boilerplate/g,
 			to: setup.package_name.replace(setup.package_org),
 		});
@@ -206,7 +304,14 @@ const pkg = require("../package.json");
 	try {
 		await replace({
 			files: ["**/*", ".*", "**/.*"],
-			ignore: ["node_modules/**/*", "platforms/**/*", "setup.json", "package-lock.json", "scripts/setup.ts", ".all-contributorsrc"],
+			ignore: [
+				"node_modules/**/*",
+				"platforms/**/*",
+				"setup.json",
+				"package-lock.json",
+				"scripts/setup.ts",
+				".all-contributorsrc",
+			],
 			from: /support@ptkdev.io/g,
 			to: setup.email,
 		});
