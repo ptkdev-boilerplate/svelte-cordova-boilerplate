@@ -3,7 +3,6 @@ build.xml
 local.properties
 /gradlew
 /gradlew.bat
-/gradle
 # Ant builds
 ant-build
 ant-gen
@@ -12,6 +11,7 @@ gen
 out
 # Gradle build artifacts
 .gradle
+!/gradle/wrapper/gradle-wrapper.properties
 .gradletasknamecache
 /build
 /CordovaLib/build

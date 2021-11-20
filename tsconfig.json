@@ -7,12 +7,14 @@
 		"resolveJsonModule": true,
 		"moduleResolution": "node",
 		"esModuleInterop": true,
-		"noImplicitAny": false,
-		"noImplicitThis": false,
+		"noImplicitAny": true,
+		"noImplicitThis": true,
 		"declaration": false,
-		"strict": false,
-		"skipLibCheck": true,
 		"allowJs": true,
+		"strict": true,
+		"strictNullChecks": true,
+		"strictFunctionTypes": true,
+		"forceConsistentCasingInFileNames": true,
 		"types": ["svelte", "jest", "shelljs"],
 		"paths": {
 			"@components/*": ["./app/components/*"],
@@ -21,7 +23,10 @@
 			"@app/*": ["./app/*"]
 		},
 		"typeRoots": ["app/**/types", "node_modules/@types"],
-		"plugins": [{ "transform": "typescript-transform-paths" }, { "transform": "typescript-transform-paths", "afterDeclarations": true }]
+		"plugins": [
+			{ "transform": "typescript-transform-paths" },
+			{ "transform": "typescript-transform-paths", "afterDeclarations": true }
+		]
 	},
 	"extends": "@tsconfig/svelte/tsconfig.json",
 	"include": ["app/**/*"],
